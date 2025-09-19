@@ -1,0 +1,185 @@
+body{
+    background-color: #fff;
+    font-family: Poppins;
+}
+
+.x{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5pc;
+}
+
+.v{
+    display: flex;
+
+}
+
+.a{
+    margin-right: 20px;
+}
+
+.a:link{
+    color: #767676;
+    text-decoration: none;
+}
+
+.a:visited{
+    color: #767676;
+}
+
+.btn{
+    width: 8pc;
+    height: 2.5pc;
+    border-radius: 30pc;
+    border: none;
+    color: white;
+    background-color: #04ddb2;
+    margin-right: 3pc;
+    margin-top: -1pc;
+}
+
+.l{
+    margin-left: 3pc;
+    margin-top: -1pc;
+}
+
+.o{
+    text-align: center;
+}
+
+.vid{
+    width: 45pc;
+    border-radius: 20px;
+    /* padding-bottom: 2pc; */
+}
+.vidbor{
+    background-color:#c7c1c1;
+    text-align: center;
+    width: 65pc;
+    height: 30pc;
+    border-radius: 20px;
+    margin-left: 9pc;
+    padding-top: 4pc;
+    margin-bottom: 6pc;
+}
+
+.iex{
+    font-size: 50px;
+    font-weight: 900;
+    color: black;
+}
+
+h1{
+    font-size: 55px;
+}
+
+.sam{
+    color: #04ddb2;
+}
+
+.r{
+    margin-bottom: -1pc;
+    margin-top: 4pc;
+}
+
+.z{
+    margin-bottom: 4pc;
+}
+
+.lib{
+    text-align: center;
+    padding: 0;
+    line-height: 4pc;
+    /* color: #04ddb2; */
+}
+
+.set{
+    padding: 10pc;
+}
+
+.btn:hover{
+    transform: scale(1.2);
+    transition: ease-in 0.2s;
+}
+
+.tel{
+    width: 8pc;
+    height: 2.5pc;
+    border-radius: 30pc;
+    border: none;
+    color: white;
+    background-color: #04ddb2;
+    margin-bottom: 6pc;
+}
+
+.tel:hover{
+    transform: scale(1.2);
+    transition: ease-in 0.2s;
+}
+
+hr{
+    width: 69pc;
+}
+
+.ico{
+    width: 13px;
+    padding-top: 0.1pc;
+}
+
+.svg{
+    width: 100px;
+    margin-bottom: 2pc;
+}
+
+.zex:link{
+    color: #767676;
+    text-decoration: none;
+}
+
+.zex:visited{
+    color: #767676;
+}
+
+.span{
+    display: flex;
+    font-size: 13px ;
+}
+
+.secs{
+    margin-left: 12pc;
+    display: flex;
+    line-height: 2pc;
+    
+}
+
+.zx{
+    font-size: 13px ;
+    color: #767676;
+}
+
+.zex{
+    margin-left: -6.4pc;
+
+}
+
+.li{
+    list-style: none;
+    line-height: 2;
+    /* margin-left: 1.5pc; */
+}
+
+
+footer a{
+    text-decoration: none;
+    color: #767676;
+}
+
+.social-url img{
+    width: 40px;
+    margin-left: 2pc;
+    margin-top: 1pc;
+}
+
+.social-url{
+    margin-left: 2pc;
+}
